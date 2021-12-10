@@ -1,2 +1,2 @@
 # Daftar-Hardir
-daftar hadir buat absensi kondangan
+daftar hadir buat absensi kondangan - latihan dicoding
